@@ -1,0 +1,23 @@
+{
+  "name": "koajs",
+  "version": "1.0.0",
+  "description": "koajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daotientu-devops/nodejs_koajs.git"
+  },
+  "author": "DAO TIEN TU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daotientu-devops/nodejs_koajs/issues"
+  },
+  "homepage": "https://github.com/daotientu-devops/nodejs_koajs#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "nodemon": "^2.0.15"
+  }
+}
