@@ -17,7 +17,11 @@
   },
   "homepage": "https://github.com/daotientu-devops/nodejs_koajs#readme",
   "dependencies": {
+    "axios": "^0.25.0",
     "koa": "^2.13.4",
+    "koa-ejs": "^4.3.0",
+    "koa-logger": "^3.2.1",
+    "koa-router": "^10.1.1",
     "nodemon": "^2.0.15"
   }
 }
